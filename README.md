@@ -3,7 +3,7 @@
 <summary><h2><b>stable matching</b></h2></summary> 
 
 ## Gale-Shapleyalgorithm
-```c++=
+```c=
 initial each person to free
 while (some man m is free and hasn't proposed to every woman) do
   w = highest ranked woman in m's list to whom m has not yet proposed
