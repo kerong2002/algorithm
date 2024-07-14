@@ -2,7 +2,7 @@
 <details> 
 <summary><h2><b>stable matching</b></h2></summary> 
 
-## Gale-Shapleyalgorithm
+## Gale-Shapley algorithm
 ```c=
 initial each person to free
 while (some man m is free and hasn't proposed to every woman) do
