@@ -3,6 +3,7 @@
 <summary><h2><b>stable matching</b></h2></summary> 
 
 ## Gale-Shapley algorithm
+[UVa-1175](https://github.com/kerong2002/algorithm/blob/main/stable%20matching/UVa-1175.cpp)
 ```c=
 initial each person to free
 while (some man m is free and hasn't proposed to every woman) do
