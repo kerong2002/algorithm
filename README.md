@@ -13,7 +13,7 @@ while (some man m is free and hasn't proposed to every woman) do
   else if (w prefer m to her fiance m') then
     (m, w) become engaged
     m' become free
-return the set S of engaged paris
+return the set S of engaged pairs
 ```
 
 
