@@ -35,7 +35,7 @@ int main() {
 		while (freeMan) {
 			freeMan = false;
 			int w = boy[m][nextProposal[m]] - 1;
-            nextProposal[m]++;
+			nextProposal[m]++;
 			if (girlMatch[w] == -1) {
 				// w is free engage(m, w)
 				girlMatch[w] = m;
@@ -73,11 +73,11 @@ int main() {
 		}
 
 		for (int x = 0; x < n; ++x) {
-            cout << boyMatch[x] + 1 << "\n";
+			cout << boyMatch[x] + 1 << "\n";
 		}
-        if (T != 0) {
-		    cout << "\n";
-        }
+		if (T != 0) {
+			cout << "\n";
+		}
 	}
 
 
